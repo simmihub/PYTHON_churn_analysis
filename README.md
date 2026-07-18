@@ -118,7 +118,7 @@ PYTHON_churn_analysis/
 
 ### Tenure Distribution
 
-![Tenure Distribution](Images/tenure%20distribution.png)
+![Tenure Distribution](Images/Tenure%20distribution.png)
 
 **Insight:**
 -people who have used our services for a long time have stayed and people who have used our sevices 1 or 2 months  have churned
