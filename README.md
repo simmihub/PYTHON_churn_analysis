@@ -87,22 +87,39 @@ PYTHON_churn_analysis/
 
 ## 📈 Visualizations
 
-This project includes visualizations for:
+## 📈 Visualizations
 
-- Customer Churn Distribution
-   ![Customer Churn Distribution](Images/customer churn distribution.png,percentage of churn distribution.png)
-- Gender-wise Churn
-   ![Gender-wise Churn](Images/churn by gender.png)
-- Senior Citizen Analysis
-   ![Senior Citizen Analysis](Images/customer count by senior citizen status.png,percentage of churn customer by senior citizen.png)
-- Contract Type Analysis
-   ![Contract Type Analysis](Images/customer count by contract.png)
-- Tenure Distribution
-   ![Tenure Distribution](Images/Tenure distribution)
-- Subplot
-   ![Subplot](Images/subplot.png)
-- Payment Method Analysis
-   ![Payment Method Analysis](Images/churned customer by payment method.png)
+### Customer Churn Distribution
+
+![Customer Churn Distribution](Images/customer%20churn%20distribution.png)
+
+![Percentage of Churn Distribution](Images/percentage%20of%20churn%20distribution.png)
+
+### Gender-wise Churn
+
+![Gender-wise Churn](Images/churn%20by%20gender.png)
+
+### Senior Citizen Analysis
+
+![Customer Count by Senior Citizen Status](Images/customer%20count%20by%20senior%20citizen%20status.png)
+
+![Percentage of Churn by Senior Citizen](Images/percentage%20of%20churn%20customer%20by%20senior%20citizen.png)
+
+### Contract Type Analysis
+
+![Customer Count by Contract](Images/customer%20count%20by%20contract.png)
+
+### Tenure Distribution
+
+![Tenure Distribution](Images/tenure%20distribution.png)
+
+### Subplot
+
+![Subplot](Images/subplot.png)
+
+### Payment Method Analysis
+
+![Churn by Payment Method](Images/churned%20customer%20by%20payment%20method.png)
   
 
 ---
