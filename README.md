@@ -85,15 +85,16 @@ PYTHON_churn_analysis/
 
 ---
 
-## 📈 Visualizations
-
-## 📈 Visualizations
+## 📈 Visualizations and insights
 
 ### Customer Churn Distribution
 
 ![Customer Churn Distribution](Images/customer%20churn%20distribution.png)
 
 ![Percentage of Churn Distribution](Images/percentage%20of%20churn%20distribution.png)
+
+**Insight:**
+-Approximately **26.54%** of customers have churned, whereas **73.46%** remain active.
 
 ### Gender-wise Churn
 
@@ -105,22 +106,38 @@ PYTHON_churn_analysis/
 
 ![Percentage of Churn by Senior Citizen](Images/percentage%20of%20churn%20customer%20by%20senior%20citizen.png)
 
+**Insight:**
+-comparative a greater pecentage of people in senior citizen category have churned
+
 ### Contract Type Analysis
 
 ![Customer Count by Contract](Images/customer%20count%20by%20contract.png)
+
+**Insight:**
+-people who have month to month contract are likely to churn then from those who have 1 or 2 years or contract.
 
 ### Tenure Distribution
 
 ![Tenure Distribution](Images/tenure%20distribution.png)
 
+**Insight:**
+-people who have used our services for a long time have stayed and people who have used our sevices 1 or 2 months  have churned
+
 ### Subplot
 
 ![Subplot](Images/subplot.png)
 
+**Insight:**
+-The majority of customers who do not churn tend to have services like PhoneService, InternetService (particularly DSL),
+and OnlineSecurity enabled. For services like OnlineBackup, TechSupport, and StreamingTV, churn rates are noticeably 
+higher when these services are not used or are unavailable. 
+
 ### Payment Method Analysis
 
 ![Churn by Payment Method](Images/churned%20customer%20by%20payment%20method.png)
-  
+
+**Insight:**
+-customers are likely to churn when they are using electronic check as a payment method. 
 
 ---
 
